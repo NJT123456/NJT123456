@@ -1,6 +1,6 @@
 ## Hi there. I'm Jinjutha Thapanapoompong(Nam) 👋
 
-- 💬 Contact me: jinjutha.njt@gmail.com
+- 💬 Contact me: jinjutha.namnjt@gmail.com
 - [Portfolio](https://njt123456.github.io/portfolio/)
 
 ## Languages and tools🌱
